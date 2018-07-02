@@ -1,1 +1,0 @@
-this blog is used to study git.
